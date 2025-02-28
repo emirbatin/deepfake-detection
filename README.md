@@ -99,5 +99,5 @@ If you use this model, please cite:
 
 ## **📬 Contact | İletişim** 
 - **Email:** batin@cretique.net
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/emirbatin)  
+- **LinkedIn:** [LinkedIn](https://linkedin.com/in/emirbatin)  
 
