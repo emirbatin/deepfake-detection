@@ -88,9 +88,9 @@ python test.py --model_path best_model.pth --image_path example.jpg
 ## **📜 Citation | Atıf**
 If you use this model, please cite:
 ```
-@article{yourname2025deepfake,
+@article{coming soon,
   title={High-Performance DeepFake Detection Using Advanced Spectral Analysis and Attention Mechanisms},
-  author={Your Name},
+  author={Emir Batın Karaoglan},
   year={2025}
 }
 ```
