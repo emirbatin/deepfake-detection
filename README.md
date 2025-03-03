@@ -46,7 +46,7 @@ Bu depo, **ConvNeXt omurgası**, **spektral analiz (FFT, DCT)** ve **dikkat meka
 
 ## **🛠 Installation | Kurulum**
 ```bash
-git clone https://github.com/emirbatin/deepfakedetection.git
+git clone https://github.com/emirbatin/deepfake-detection.git
 cd deepfake-detection
 pip install -r requirements.txt
 ```
