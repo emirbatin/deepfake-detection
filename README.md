@@ -32,12 +32,12 @@ Bu depo, **ConvNeXt omurgası**, **spektral analiz (FFT, DCT)** ve **dikkat meka
 ---
 
 ## **📂 Dataset | Veri Seti**
-**📌 Dataset:** [140K Real and Fake Faces]([https://www.kaggle.com/datasets/x/140k-real-and-fake-faces](https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces))  
+**📌 Dataset:** [140K Real and Fake Faces](https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces)  
 - **Train:** 5000 images (2500 real, 2500 fake)  
 - **Validation:** 5000 images (2500 real, 2500 fake)  
 - **Test:** 5000 images (2500 real, 2500 fake)  
 
-**📌 Veri Seti:** [140K Gerçek ve Sahte Yüzler]([https://www.kaggle.com/datasets/x/140k-real-and-fake-faces](https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces))  
+**📌 Veri Seti:** [140K Gerçek ve Sahte Yüzler](https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces)  
 - **Eğitim:** 5000 görüntü (2500 gerçek, 2500 sahte)  
 - **Doğrulama:** 5000 görüntü (2500 gerçek, 2500 sahte)  
 - **Test:** 5000 görüntü (2500 gerçek, 2500 sahte)  
