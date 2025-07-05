@@ -91,15 +91,15 @@ If you use this model, please cite:
 ```bibtex
 @incollection{karaoglan2025spectral,
   author    = {Karaoğlan, Emir Batın and Oğuzay, Engin and Uçkan, Gökhan},
-  title     = {High-Performance DeepFake Detection Using Advanced Spectral Analysis and Attention Mechanisms},
-  booktitle = {Bilgisayar Bilimleri ve Mühendisliği Alanında Güncel Araştırmalar},
+  title     = {Classification of Deepfake Detection Images with Spectral Analysis and Attention Mechanisms},
+  booktitle = {Current Research in Computer Science and Engineering},
   pages     = {21--25},
   year      = {2025},
   publisher = {Gece Kitaplığı},
   address   = {Ankara, Türkiye},
   url       = {https://www.gecekitapligi.com/Webkontrol/uploads/Fck/31-Bilgisayar_bilim_m%C3%BCh_Haziran_2025_DK_V1.pdf}
 }
-
+```
 ---
 
 ## **📬 Contact | İletişim** 
