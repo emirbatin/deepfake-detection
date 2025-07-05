@@ -87,13 +87,18 @@ python test.py --model_path best_model.pth --image_path example.jpg
 
 ## **📜 Citation | Atıf**
 If you use this model, please cite:
-```
-@article{coming soon,
-  title={High-Performance DeepFake Detection Using Advanced Spectral Analysis and Attention Mechanisms},
-  author={Emir Batın Karaoglan},
-  year={2025}
+
+```bibtex
+@incollection{karaoglan2025spectral,
+  author    = {Karaoğlan, Emir Batın and Oğuzay, Engin and Uçkan, Gökhan},
+  title     = {High-Performance DeepFake Detection Using Advanced Spectral Analysis and Attention Mechanisms},
+  booktitle = {Bilgisayar Bilimleri ve Mühendisliği Alanında Güncel Araştırmalar},
+  pages     = {21--25},
+  year      = {2025},
+  publisher = {Gece Kitaplığı},
+  address   = {Ankara, Türkiye},
+  url       = {https://www.gecekitapligi.com/Webkontrol/uploads/Fck/31-Bilgisayar_bilim_m%C3%BCh_Haziran_2025_DK_V1.pdf}
 }
-```
 
 ---
 
